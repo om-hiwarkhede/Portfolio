@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+# AI search + assistant crawlers explicitly allowed (needed for ChatGPT, Perplexity, Claude, Gemini, Copilot citations)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# BASE_URL = https://example.com/ — find-replace with your live domain when ready.
+Sitemap: https://example.com/sitemap.xml

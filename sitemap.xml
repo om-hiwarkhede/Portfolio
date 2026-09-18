@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- BASE_URL = https://example.com/ — find-replace with your live domain when ready. -->
+<!-- Note: crawlers ignore #fragments, so single-page sections live in the HTML sitemap/nav + JSON-LD, not here. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://example.com/images/profile.png</image:loc>
+      <image:title>Om Hiwarkhede — Full Stack Java Developer</image:title>
+      <image:caption>Portrait of Om Hiwarkhede, Software Support Trainee and Full Stack Java Developer based in Pune.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://example.com/Documents/OM_HIWARKHEDE_RESUME.pdf</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://example.com/Documents/Merit_Certificate_Seed%20-%20Copy.pdf</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+</urlset>

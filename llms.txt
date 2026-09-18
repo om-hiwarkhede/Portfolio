@@ -1,0 +1,42 @@
+# Om Hiwarkhede — Full Stack Java Developer in Pune
+
+> Portfolio of Om Hiwarkhede, a Full Stack Java Developer in Pune, India, working as a Software Support Trainee at LogicMo Systems Pvt. Ltd. Stack: Java, Spring Boot, Hibernate, Oracle SQL, MySQL, Angular, React, HTML5, CSS3, JavaScript. Open to Java developer and software support roles in Pune or remote.
+
+## Who
+
+- Name: Om Hiwarkhede
+- Location: Pune, Maharashtra, India (18.5204, 73.8567)
+- Current role: Software Support Trainee, LogicMo Systems Pvt. Ltd. (Mar 2026–present)
+- Email: hiwarkhedeo@gmail.com (responds within ~24 hours)
+- GitHub: https://github.com/om-hiwarkhede
+- LinkedIn: https://linkedin.com/in/om-hiwarkhede
+
+## Stack
+
+Java, Spring Boot, Hibernate, Oracle SQL, MySQL, Angular, React.js, HTML5, CSS3, JavaScript, Git, GitHub, troubleshooting, production monitoring.
+
+## Experience
+
+- Software Support Trainee, LogicMo Systems, Pune (Mar 2026–present): application support, bug reproduction, monitoring, documentation.
+- Command & Control Support, Star Connect, YCEW-ITMS project (Jun 2025–Mar 2026): operator performance reporting, real-time site data, daily reports.
+- Electrical Engineering Apprentice, GE Aviation, Pune (Mar 2022–Jul 2022): testing, diagnostics, documentation.
+- Certified Full Stack Java Developer, SEED Infotech, Pune (Jun 2024–Feb 2025).
+- B.E. Electrical, Siddhivinayak Technical Campus Shegaon (2021–2024, CGPA 7.3). Diploma Electrical, Govt. Polytechnic Washim (81.67%).
+
+## Hiring
+
+- Open to: Java developer and software support roles in Pune or remote.
+- Contact: hiwarkhedeo@gmail.com
+- Resume PDF and certificate PDFs linked from the portfolio site.
+- Response time: usually under 24 hours.
+
+## Site pages- Home: #home — Full Stack Java Developer in Pune intro
+- About: #about — profile and how he works
+- Experience: #experience — LogicMo, Star Connect, GE Aviation
+- Skills: #skills — languages, web, frameworks, databases, ops
+- Projects: #projects — Hospital Management System (Java, Spring Boot, MySQL, Angular), portable solar refrigeration
+- Certifications: #certifications — SEED Infotech Full Stack Java Developer
+- Education: #education — B.E., diploma, SSC
+- FAQ: #faq — who, hiring, stack, experience, contact answers
+- Contact: #contact — email, GitHub, LinkedIn, transmission form (needs Formspree ID to go live; falls back to mailto)
+- Blog: #blog — build logs: production-bug checklist, Spring Boot + Angular notes, support SQL queries

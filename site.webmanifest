@@ -1,0 +1,24 @@
+{
+  "name": "Om Hiwarkhede — Full Stack Java Developer",
+  "short_name": "OM®",
+  "description": "Software Support Trainee & Full Stack Java Developer. Java, Spring Boot, SQL, Angular, React. Based in Pune.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#F4F4F0",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "images/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "images/profile.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
